@@ -1,0 +1,12 @@
+temp
+
+.flake8
+db.sqlite3
+
+notes.txt
+
+hidden.py
+
+django_celery_blog/hidden.py
+
+celerybeat-schedule
