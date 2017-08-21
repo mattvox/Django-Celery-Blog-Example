@@ -10,3 +10,7 @@ hidden.py
 django_celery_blog/hidden.py
 
 celerybeat-schedule
+
+*.pyo
+*.pyc
+*.sock
